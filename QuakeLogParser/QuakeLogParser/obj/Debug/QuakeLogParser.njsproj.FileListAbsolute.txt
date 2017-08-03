@@ -1,0 +1,1 @@
+c:\users\mende\documents\visual studio 2017\Projects\QuakeLogParser\QuakeLogParser\bin\Microsoft.NodejsTools.WebRole.dll
