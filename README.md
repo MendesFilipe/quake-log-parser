@@ -2,7 +2,7 @@
 Projeto desenvolvido em Node.js e Angular.js que faz um parse do log de Quake Arena: http://quake-log.azurewebsites.net/
 
 # Desenvolvimento
-![desafio](https://lh4.googleusercontent.com/KTfsqDhqFjFZvVQ_aklwB1RS79a5zdQ4TpM1GTuHOe8_y3bIAaOq2XhmFgwzkj10da9Ukpg2=w1366-h648-rw)
+![desafio](https://ibb.co/n1u7pv)
 O Projeto foi desenvolvivido, usando as seguintes tecnologias:
 * Visual Studio 2017 with node.js tools 
 * NODE.JS
